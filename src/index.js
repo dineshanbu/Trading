@@ -26,7 +26,6 @@ app.use("*", cors());
 
 
 // Define paths for Express config
-const publicDirPath = path.join(__dirname, "../public");
 
 app.enable("trust proxy");
 
@@ -36,12 +35,12 @@ app.set("view engine", "ejs");
 app.set("view options", {
   layout: false,
 });
-app.set('views', publicDirPath + '/views');
+
 app.engine('html', engines.mustache);
 app.set('view engine', 'html');
 
 // Set Public folder
-app.use(express.static(publicDirPath));
+
 
 //Set Request Size Limit
 app.use(
