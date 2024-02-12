@@ -34,7 +34,7 @@
     "express-ejs-layouts": "^2.5.0",
     "express-session": "^1.17.1",
     "firebase-admin": "^10.0.2",
-    "fs": "^0.0.1-security",
+    "fs": "^0.0.2",
     "gifsicle": "^5.2.1",
     "google-auth-library": "^8.1.1",
     "googleapis": "^105.0.0",
