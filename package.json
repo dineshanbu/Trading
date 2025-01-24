@@ -46,7 +46,7 @@
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
     "pdfmake": "^0.1.68",
-    "plaid": "^9.10.1",
+    "plaid": "^30.1.0",
     "pngquant-bin": "^6.0.1",
     "randomstring": "^1.1.5",
     "redis": "^4.2.0",
