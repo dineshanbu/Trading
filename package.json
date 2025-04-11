@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@parse/node-apn": "^4.0.0",
-    "@sendgrid/mail": "^7.2.2",
+    "@sendgrid/mail": "^8.1.5",
     "apn": "^1.6.2",
     "apple-auth": "^1.0.7",
     "apple-signin": "^1.0.9",
