@@ -24,7 +24,7 @@
     "connect-flash": "^0.1.1",
     "consolidate": "^0.16.0",
     "convert-excel-to-json": "^1.7.0",
-    "convert-svg-to-png": "^0.6.4",
+    "convert-svg-to-png": "^0.7.0",
     "cors": "^2.8.5",
     "crypto": "^1.0.1",
     "dotenv": "^8.2.0",
